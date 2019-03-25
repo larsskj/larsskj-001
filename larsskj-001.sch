@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:larsskj-001-cache
 EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
@@ -11,7 +12,7 @@ Comp "Lars Skjærlund"
 Comment1 ""
 Comment2 ""
 Comment3 "Copyright © 2019 by Lars Skjærlund"
-Comment4 "A board for connecting TLC 5940 boards"
+Comment4 "A board for connecting TLC 5940 boards."
 $EndDescr
 $Comp
 L Connector_Generic:Conn_02x05_Odd_Even J1
