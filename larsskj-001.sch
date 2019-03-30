@@ -74,17 +74,6 @@ Wire Wire Line
 	3350 4200 4550 4200
 Wire Wire Line
 	4550 4200 4550 4150
-$Comp
-L Connector:Screw_Terminal_01x02 J3
-U 1 1 5C905FE1
-P 5000 3350
-F 0 "J3" V 4966 3162 50  0000 R CNN
-F 1 "VCC" V 4875 3162 50  0000 R CNN
-F 2 "TerminalBlock:TerminalBlock_bornier-2_P5.08mm" H 5000 3350 50  0001 C CNN
-F 3 "~" H 5000 3350 50  0001 C CNN
-	1    5000 3350
-	0    -1   -1   0   
-$EndComp
 Wire Wire Line
 	4050 3750 4050 3650
 $Comp
@@ -209,4 +198,25 @@ Wire Wire Line
 Connection ~ 4750 3650
 Wire Wire Line
 	4750 3650 5100 3650
+$Comp
+L 1888687:1888687 J3
+U 1 1 5C9A6E36
+P 5000 3550
+F 0 "J3" V 5294 3322 50  0000 R CNN
+F 1 "1888687" V 5249 3322 50  0001 R CNN
+F 2 "1888687:SHDR2W90P0X508_1X2_1016X950X1500P" H 5650 3650 50  0001 L CNN
+F 3 "https://componentsearchengine.com/Datasheets/1/1888687.pdf" H 5650 3550 50  0001 L CNN
+F 4 "Phoenix Contact COMBICON MKDSN Series 5.08mm Pitch Straight PCB Terminal Block with Screw Termination, Through Hole" H 5650 3450 50  0001 L CNN "Description"
+F 5 "15" H 5650 3350 50  0001 L CNN "Height"
+F 6 "Phoenix Contact" H 5650 3250 50  0001 L CNN "Manufacturer_Name"
+F 7 "1888687" H 5650 3150 50  0001 L CNN "Manufacturer_Part_Number"
+F 8 "651-1888687" H 5650 3050 50  0001 L CNN "Mouser Part Number"
+F 9 "https://www.mouser.com/Search/Refine.aspx?Keyword=651-1888687" H 5650 2950 50  0001 L CNN "Mouser Price/Stock"
+F 10 "2509972333" H 5650 2850 50  0001 L CNN "RS Part Number"
+F 11 "http://uk.rs-online.com/web/p/products/2509972333" H 5650 2750 50  0001 L CNN "RS Price/Stock"
+F 12 "70054422" H 5650 2650 50  0001 L CNN "Allied_Number"
+F 13 "https://www.alliedelec.com/phoenixcontact-1888687/70054422/" H 5650 2550 50  0001 L CNN "Allied Price/Stock"
+	1    5000 3550
+	0    -1   -1   0   
+$EndComp
 $EndSCHEMATC

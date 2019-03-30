@@ -9,4 +9,6 @@ It's primarily intended for use in model railroading. The board has a wide edge 
 
 The board is shared at [OSH Park](https://oshpark.com/shared_projects/Qwm4SQ2z), where you can order copies.
 
+![3D image](larsskj-001.3d.png)
+
 ![Open Source Hardware](https://i2.wp.com/www.oshwa.org/wp-content/uploads/2014/03/oshw-logo-100-px.png)
